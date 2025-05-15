@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2025-05-15T14:11:25.213Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>建站第一篇文章</title>
+    <link href="http://example.com/2025/05/15/%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2025/05/15/%E5%BB%BA%E7%AB%99%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2025-05-15T13:56:26.000Z</published>
+    <updated>2025-05-15T14:11:25.213Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>邮箱：<a href="mailto:&#104;&#x78;&#95;&#110;&#x69;&#110;&#101;&#x73;&#117;&#x6e;&#64;&#49;&#54;&#x33;&#46;&#x63;&#111;&#109;">&#104;&#x78;&#95;&#110;&#x69;&#110;&#101;&#x73;&#117;&#x6e;&#64;&#49;&#54;&#x33;&#46;&#x63;&#111;&#109;</a></p><p>authoer: @hanxu</p><p>date：2025-05-15</p></blockquote><p>hello大家好，这是我的第一篇博文，希望开头并不是结束，可以坚持下去。从20年开始陆陆续续捣鼓博客，想把技术类的学习笔记做一个系统的归纳总结在一个地方，但由于懒癌上身，弄一次夭折一次，这一次在黄同学的鼓励下，再次重启博客之旅。</p><p>上学的时候，有一个bbs的网站叫Linuxtone，现在已经闭站，估计现在的小孩儿都没听过吧。里面有一句话：学习是一种信仰，分享是一种快乐。开源的精神让每一个学技术的人都得到了无数受益，觉得生活在这样一个年代，真的无比幸福，在学习与被学习中激发出更多的灵感。毕业多年，那股想要探究，钻研的精神早已经被磨没了。但是最初的热爱，也许永远可以给你力量，还有快乐。我希望自己可以成长，也可以帮助到更多的人。</p><p>身为一个技术，一定要有自己的知识库，但我比较懒，更新比较慢，尽量质出！！！</p><p>下面附上我的其他博客，希望未来可以同步更新：</p><p>博客园：</p><p><a href="https://www.cnblogs.com/asahixu">https://www.cnblogs.com/asahixu</a></p><p>CSDN社区：</p><p><a href="https://blog.csdn.net/qq_39959264?spm=1000.2115.3001.5343">https://blog.csdn.net/qq_39959264?spm=1000.2115.3001.5343</a></p><p>欢迎大家访问浏览！！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;邮箱：&lt;a href=&quot;mailto:&amp;#104;&amp;#x78;&amp;#95;&amp;#110;&amp;#x69;&amp;#110;&amp;#101;&amp;#x73;&amp;#117;&amp;#x6e;&amp;#64;&amp;#49;&amp;#54;&amp;#x33;&amp;#46;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
